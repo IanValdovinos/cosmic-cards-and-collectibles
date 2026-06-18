@@ -38,11 +38,11 @@ function Hero({ shootCount = 4, shootCycle = 7 }) {
             Pokémon, Magic: The Gathering, One Piece, Yu-Gi-Oh!, Lorcana and more — all under one neon-lit roof. 10,000+ singles in the case, sealed product fresh from distro, and a fair offer on whatever you bring through the door.
           </p>
           <div className="hero-cta-row">
-            <a href="#inventory" className="cta-primary">
+            <a href="https://foilbinder.com/shop/9aa9dc99-9c7d-4eb0-83c0-be5a7a689a80" className="cta-primary">
               Browse Our Inventory
               <span className="cta-arrow">→</span>
             </a>
-            <a href="#visit" className="cta-secondary">Visit the shop</a>
+            <a href="https://foilbinder.com/shop/9aa9dc99-9c7d-4eb0-83c0-be5a7a689a80" className="cta-secondary">Visit the shop</a>
           </div>
           <div className="hero-stats">
             <div><strong>10K+</strong><span>singles in stock</span></div>

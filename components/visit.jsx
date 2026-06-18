@@ -36,7 +36,7 @@ function Visit() {
               <div className="info-value">Sat 1p · all ages<br />Free play · prize packs</div>
             </div>
           </div>
-          <a href="#inventory" className="cta-primary">
+          <a href="https://foilbinder.com/shop/9aa9dc99-9c7d-4eb0-83c0-be5a7a689a80" className="cta-primary">
             Browse Our Inventory
             <span className="cta-arrow">→</span>
           </a>

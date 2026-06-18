@@ -27,7 +27,7 @@ function TCGSection() {
           <h3>{tcg.name}</h3>
           <div className="tcg-tagline">{tcg.tagline}</div>
           <p>{tcg.blurb}</p>
-          <a href="#inventory" className="cta-ghost">
+          <a href="https://foilbinder.com/shop/9aa9dc99-9c7d-4eb0-83c0-be5a7a689a80" className="cta-ghost">
             Browse {tcg.name} inventory <span className="cta-arrow">→</span>
           </a>
           <div className="tcg-stats">
