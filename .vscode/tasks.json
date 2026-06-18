@@ -4,7 +4,7 @@
     {
       "label": "Start Dev Server",
       "type": "shell",
-      "command": "python3 -m http.server 3000 & sleep 0.5 && open http://localhost:3000",
+      "command": "(sleep 1 && open http://localhost:3000) & python3 -m http.server 3000",
       "isBackground": true,
       "problemMatcher": [],
       "group": {
